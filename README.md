@@ -1,7 +1,7 @@
 ### Olá! Sou Lucas Cardoso 👋
 
-- 🔭 Atualmente trabalho como Software QA Tester
-- 🌱 Estou estudando sobre desenvolvimento web
+- 🔭 Software QA Tester
+
 
 <div align="center">
   <a href="https://github.com/LucasCardoso99">
